@@ -3,7 +3,7 @@
 
   <!-- Pagina principale -->
   <url>
-    <loc>https://marian-george-serban-saldatura.netlify.app/</loc>
+    <loc>https://consulenza-saldatura-serbanmarian.netlify.app/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -11,7 +11,7 @@
 
   <!-- Sezione Servizi -->
   <url>
-    <loc>https://marian-george-serban-saldatura.netlify.app/#servizi</loc>
+    <loc>https://consulenza-saldatura-serbanmarian.netlify.app/#servizi</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -19,7 +19,7 @@
 
   <!-- Sezione A chi mi rivolgo -->
   <url>
-    <loc>https://marian-george-serban-saldatura.netlify.app/#a-chi</loc>
+    <loc>https://consulenza-saldatura-serbanmarian.netlify.app/#a-chi</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -27,7 +27,7 @@
 
   <!-- Sezione Chi sono -->
   <url>
-    <loc>https://marian-george-serban-saldatura.netlify.app/#chi-sono</loc>
+    <loc>https://consulenza-saldatura-serbanmarian.netlify.app/#chi-sono</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -35,7 +35,7 @@
 
   <!-- Sezione Certificazioni -->
   <url>
-    <loc>https://marian-george-serban-saldatura.netlify.app/#certificazioni</loc>
+    <loc>https://consulenza-saldatura-serbanmarian.netlify.app/#certificazioni</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
@@ -43,7 +43,7 @@
 
   <!-- Sezione Settori -->
   <url>
-    <loc>https://marian-george-serban-saldatura.netlify.app/#settori</loc>
+    <loc>https://consulenza-saldatura-serbanmarian.netlify.app/#settori</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -51,7 +51,7 @@
 
   <!-- Sezione Contatto -->
   <url>
-    <loc>https://marian-george-serban-saldatura.netlify.app/#contatto</loc>
+    <loc>https://consulenza-saldatura-serbanmarian.netlify.app/#contatto</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.9</priority>
