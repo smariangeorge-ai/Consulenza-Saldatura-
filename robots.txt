@@ -1,0 +1,8 @@
+# robots.txt – Serban Marian George · Consulenza Tecnica Saldatura
+# https://marian-george-serban-saldatura.netlify.app
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://marian-george-serban-saldatura.netlify.app/sitemap.xml
